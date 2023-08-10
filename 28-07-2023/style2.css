@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-style{
+    text-align: center;
+    margin-top: 20px;
+}
+.form-style input{
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.form-style button{
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border-color: blue;
+    cursor: pointer;
+}
+.form-style button:hover{
+    background-color: rgba(0, 0, 255, 0.349);
+    opacity: 0.9;
+}
+iframe{
+    text-align: center;
+    margin: 0 auto;
+    margin: 40px 5px;
+}
+.PORTFOLIO {
+    margin: 50px 50px;
+}
+.PORTFOLIO h3{
+    margin: 8px;
+}
+.PORTFOLIO table{
+    margin: 20px 20px; background-color: blue
+}
+.PORTFOLIO table tr td{
+    padding: 40px;
+}
+.PORTFOLIO table tr td a{
+    font-size: 25px; color: white
+}
+.PORTFOLIO{
+    ba
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 20%;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.main-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.card-button button{
+    color: white;
+    background-color:aquamarine;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border-color: blue;
+    cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    color: black;
+}
